@@ -18,6 +18,7 @@ body {
     max-width: 1580px;
     min-height: 100vh;
     background-color: var(--bg-color);
+    scroll-behavior: smooth;
 }
 
 :root {
